@@ -1,4 +1,4 @@
-# project1Team2
+# Essential
 
 https://dinhdothuy.github.io/project1Team2/
 
