@@ -1,6 +1,5 @@
 # Essential
-
-https://dinhdothuy.github.io/project1Team2/
+https://dinhdothuy.github.io/Essential-App/
 
 
 
